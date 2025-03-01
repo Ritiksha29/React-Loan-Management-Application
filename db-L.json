@@ -1,0 +1,28 @@
+{
+  "loans": [
+    {
+      "id": "fbe0",
+      "loanId": "555",
+      "loanType": "Stationery",
+      "duration": "1"
+    },
+    {
+      "id": "129b",
+      "loanId": "123",
+      "loanType": "Stationery",
+      "duration": "6"
+    },
+    {
+      "id": "5e64",
+      "loanId": "456",
+      "loanType": "Furniture",
+      "duration": "2"
+    },
+    {
+      "id": "cdb8",
+      "loanId": "102",
+      "loanType": "Stationery",
+      "duration": "1"
+    }
+  ]
+}
